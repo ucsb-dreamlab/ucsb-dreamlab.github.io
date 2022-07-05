@@ -1,3 +1,5 @@
 description: "The UCSB Library DREAM Lab"
 email: "collaboratory@library.ucsb.edu"
 remote_theme: poole/lanyon
+
+theme: jekyll-theme-slate
