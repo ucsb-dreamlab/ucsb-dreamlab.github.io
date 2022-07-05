@@ -1,3 +1,8 @@
+---
+layout: page
+title: DREAM Lab
+---
+
 Our library has a DREAM Lab
 - We do (Carpentry)[https://ucsbcarpentry.github.ui]
 - We do (Twitter with twarc)[https://ucsb-dreamlab.github.io/twitter/]
