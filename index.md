@@ -9,3 +9,5 @@ Our library has a DREAM Lab
 - We make code-driven Open Educational Resources
 - Anyone can [work with us](https://www.library.ucsb.edu/irc/aboutdreams)
 - We do [geospatial](https://www.library.ucsb.edu/irc/spatial)
+
+We create interesting webby widgets to help UCSB researchers get their work done.
