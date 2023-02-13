@@ -2,4 +2,5 @@
 DREAM Lab git home page
 
 
-As plain vanilla as we can get for now.
+We create interesting webby widgets to help
+UCSB researchers get their work done.
